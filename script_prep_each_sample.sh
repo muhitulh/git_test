@@ -21,3 +21,7 @@ sed -i -e ' 4i outpath="/scratch/y95/mohitulh/20221107_global_Pnod_pangenome/202
 ##added this line to test git commit
 ##adding another line
 ##another line
+
+
+
+#adding a line after  pushing to github
