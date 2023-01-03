@@ -18,10 +18,3 @@ sed -i -e ' 3i readpath="/scratch/y95/mohitulh/20221107_global_Pnod_pangenome/20
 sed -i -e ' 4i outpath="/scratch/y95/mohitulh/20221107_global_Pnod_pangenome/2020_Richards_Friesen_US_Pnodorum_pangenome/01_ubam/" ' slurm_job.* #output path
 
 
-##added this line to test git commit
-##adding another line
-##another line
-
-
-
-#adding a line after  pushing to github
