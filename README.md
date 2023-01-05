@@ -101,7 +101,7 @@ After making the changes,
  
  Then you can check the recent changes and who made the changes in github as well.
 
-	- click the file > click "History" on the right top-hand corner [you will see all the commits] > click the commit [it could be recent one] -  then you will see the additon (with green col) and deletions (with red col) in the file
+- click the file > click "History" on the right top-hand corner [you will see all the commits] > click the commit [it could be recent one] -  then you will see the additon (with green col) and deletions (with red col) in the file
 
 -will add picture here
 
