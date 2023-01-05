@@ -99,9 +99,18 @@ After making the changes,
  2. `git commit -m script_prep_each_sample.sh`
  3. `git push -u origin master` (push to github)
  
- Then you can check the recent changes and who made the changes in github as well.
+ Then you can check the recent changes and who made the changes in github as well. 
 
-- click the file > click "History" on the right top-hand corner [you will see all the commits] > click the commit [it could be recent one] -  then you will see the additon (with green col) and deletions (with red col) in the file
+(1) click the file and click "History" on the right top-hand corner [you will see all the commits] 
+	
+![image](https://user-images.githubusercontent.com/67751990/210729597-c594a80c-6120-449c-9313-32c257e38059.png)
 
--will add picture here
+(2) click the commit [it could be recent one]
+	
+![image](https://user-images.githubusercontent.com/67751990/210729413-0ea40105-ddcc-410c-a508-8857adf60304.png)
+	
+(3) you will see the additon (with green col) and deletions (with red col) in the file
+	
+<img width="621" alt="Capture" src="https://user-images.githubusercontent.com/67751990/210728895-e9a0d5e5-b936-4b6e-9387-23fa5f3289f3.PNG">
+
 
