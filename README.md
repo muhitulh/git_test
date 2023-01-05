@@ -114,3 +114,7 @@ After making the changes,
 <img width="621" alt="Capture" src="https://user-images.githubusercontent.com/67751990/210728895-e9a0d5e5-b936-4b6e-9387-23fa5f3289f3.PNG">
 
 
+FAQ (issues I faced)
+
+* You may see error message like "! [rejected] master -> master (fetch first)" during pushing sahred file
+	- that means probably somebody else has pushed to master already, and your commit is behind. Therefore you have to fetch, merge the changeset, and then you'll be able to push again. so, first `git pull` then `git push -u origin master`
