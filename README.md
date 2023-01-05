@@ -1,3 +1,5 @@
+Git is a version control system with that we can track changes in any set of files and can see who makes what changes. 
+
 * **Step 1: Install git**
 
     - From linux terminal: `sudo apt-get install git`
@@ -11,7 +13,7 @@
   
 		* `git config --global user.name "write_user_name_here"` [I use github user name]
     
-		* `git config --global user.email "use_github_email_here"` 
+		* `git config --global user.email "use_github_email_here"` [we are using github email because later (step 6) on we will create a remote repository in GITHUB]
     
 	* Optional:
 		```git config --global core.autocrlf input```
